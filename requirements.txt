@@ -45,4 +45,4 @@ urllib3==1.25.9
 Werkzeug==1.0.1
 wrapt==1.12.1
 gunicorn
-web.py==0.37
+web.py
