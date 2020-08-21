@@ -44,4 +44,5 @@ toml==0.10.1
 urllib3==1.25.9
 Werkzeug==1.0.1
 wrapt==1.12.1
-gunicorn
+gunicorn==0.14.2
+web.py==0.37
